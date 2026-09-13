@@ -2,6 +2,10 @@
 
 A public Markdown knowledge repository for practical English learning resources and study roadmaps.
 
+## Everyday English
+
+- [English at Home with a Newborn — Scene-based YouTube Roadmap](English/newborn-home-english-youtube-roadmap.md)
+
 ## Listening & Pronunciation
 
 - [Weak Forms, Stress & Rhythm — Listening Roadmap](English/Listening/weak-forms-stress-rhythm-roadmap.md)
